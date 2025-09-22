@@ -12,9 +12,9 @@ The script features scan through text and find:
 - Hashtags
 
 HOW TO RUN IT
-git clone 
+git clone https://github.com/erin-leyian/alu_regex-data-extraction-erin-leyian.git
 cd alu_regex-data-extraction-erin-leyian
-python 3 
+python3 regex.py
 
 SAMPLE OUTPUT
 Phone input: (123) 456-7890, 123-456-7890, 1234567890
